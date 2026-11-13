@@ -63,14 +63,14 @@ Character at position 1: b
 |------|----------|
 | `domain.py` | The `MyString` class |
 | `test.py` | Tests written with `assert` for every operation |
-| `main_1.py` | Runs the tests, then demonstrates all the operations |
+| `main.py` | Runs the tests, then demonstrates all the operations |
 
 ## How to run
 
 Requires Python 3.
 
 ```
-python main_1.py
+python main.py
 ```
 
 To run only the tests:
